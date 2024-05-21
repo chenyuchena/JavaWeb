@@ -158,7 +158,11 @@ method：表单提交方式
 表单项标签
 
 ```
+<<<<<<< HEAD
 <input> 的type属性：text、password、radio（单选）、checkbox（多选）、file、date、datetime-local（本地时间）、time、number、hidden、button、submit
+=======
+<input> 的type属性：text、password、radio（单选）、checkbox（多选）、file、date、datetime-local（b）、time、number、hidden、button、submit
+>>>>>>> baafdc24cfa5e9a4c8832914370ae6318bd358ab
 <select> 定义下拉列表
 <textarea> 定义文本域
 ```
@@ -167,7 +171,11 @@ method：表单提交方式
 
 ### 2、CSS (cascading Style Sheet) 
 
+<<<<<<< HEAD
 层叠样式表，用于控制页面的样式（表现）。
 
 ### 3、JS (JavaScript)
 
+=======
+层叠样式表，用于控制页面的样式（表现）。
+>>>>>>> baafdc24cfa5e9a4c8832914370ae6318bd358ab
