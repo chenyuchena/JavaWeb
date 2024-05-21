@@ -137,6 +137,34 @@ margin：外边距
 
 
 
+表格标签
+
+```
+<table>：定义表格
+<tr>：定义表格中的行，一个 <tr> 表示一行
+<th>：表示表头单元格，具有加粗居中效果
+<td>：表示普通单元格
+```
+
+表单标签
+
+```
+表单标签：<form>    
+表单属性:
+action：表单数据提交的url地址
+method：表单提交方式
+```
+
+表单项标签
+
+```
+<input> 的type属性：text、password、radio（单选）、checkbox（多选）、file、date、datetime-local（b）、time、number、hidden、button、submit
+<select> 定义下拉列表
+<textarea> 定义文本域
+```
+
+
+
 ### 2、CSS (cascading Style Sheet) 
 
 层叠样式表，用于控制页面的样式（表现）。
