@@ -1,3 +1,0 @@
-http://yapi.smart-xwork.cn/mock/169327/emp/list
-
-http://yapi.smart-xwork.cn/mock/169327/emp/deleteById
