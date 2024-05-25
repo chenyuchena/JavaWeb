@@ -7,6 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mav-project01" />
+        <module name="maven-project02" />
+        <module name="maven-projectA" />
+        <module name="maven-projectB" />
+        <module name="maven-projectC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
